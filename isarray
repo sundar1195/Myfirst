@@ -1,0 +1,3 @@
+app.filter('isArray',function()){
+	return angular.isArray(val);
+}
